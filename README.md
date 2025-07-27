@@ -1,1 +1,1 @@
-# streetfoof-hackathon
+# streetfood-hackathon
